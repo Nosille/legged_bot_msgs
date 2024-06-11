@@ -1,2 +1,1 @@
-uint8       count
-LegJoints[] leg
+Joints[] legs

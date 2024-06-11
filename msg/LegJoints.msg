@@ -1,4 +1,3 @@
-uint8     id
-uint8     count
-float32[] angle
+uint8  id
+float32[] angles
 
